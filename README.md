@@ -1,5 +1,5 @@
 # ghͪoͦs͛ᴛⷮeͤdͩeͤaͣᴛⷮhͪ
-GhosteDeath Rat using as C&amp;C Telegram and bind shell
+GhosteDeath Rat using as C&amp;C Telegram and IRC bind shell
 
 Features:
 Get Full info from edge and chrome
